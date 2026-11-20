@@ -1,6 +1,8 @@
 <h1 align="center">Hii, I'm Dyne !!</h1>
 <h2 align="center">learning new things by breaking it down!.</h2>
-
+<center>
+<img src="./assets/readme_prof.gif" width="400" alt="Software Developer">
+</center>
 <h4>About Me</h4>
 <ul>
   <li>Developer With a lil bit knowledge on Python, Data Analysis, Machine learning and NLP. </li>
