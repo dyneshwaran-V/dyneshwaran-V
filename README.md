@@ -2,7 +2,11 @@
 <h2 align="center">learning new things by breaking it down!.</h2>
 
 <center>
-<img src="./assets/readme_prof.gif" width="400" alt="Software Developer">
+<img 
+  src="your-animation.gif" 
+  alt="Landscape Cropped GIF" 
+  style="width: 100%; max-width: 600px; aspect-ratio: 16 / 9; object-fit: cover; object-position: center; display: block; margin: 0 auto;"
+>
 </center>
 
 <h4>About Me</h4>
