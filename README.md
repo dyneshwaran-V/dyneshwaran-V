@@ -3,7 +3,7 @@
 
 <center>
 <img 
-  src="your-animation.gif" 
+  src="./assets/readme_prof.gif" 
   alt="Landscape Cropped GIF" 
   style="width: 100%; max-width: 600px; aspect-ratio: 16 / 9; object-fit: cover; object-position: center; display: block; margin: 0 auto;"
 >
