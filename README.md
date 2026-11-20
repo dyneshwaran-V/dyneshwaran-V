@@ -7,7 +7,7 @@
   style="width: 100%; max-width: 600px; aspect-ratio: 16 / 9; object-fit: cover; object-position: center; display: block; margin: 0 auto;"
 >
 
-</center>
+<center>
 <h4>About Me</h4>
 <ul>
   <li>Developer With a lil bit knowledge on Python, Data Analysis, Machine learning and NLP. </li>
