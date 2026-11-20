@@ -1,15 +1,13 @@
-<h1 align="center">Hii, I'm Dyne!!</h1>
-<h3 align="center">Messing with tech, learning along the way!.</h3>
+<h1 align="center">Hii, I'm Dyne !!</h1>
+<h2 align="center">learning new things by breaking it down!.</h2>
 
-- 🌱 I’m currently learning **Scikit-Learn, Opencv ,TensorFlow ,Pytorch**
-
-- 💬 Ask me about **Python, Java, C, Data Analysis, Machine Learning**
-
-- 📫 How to reach me **dyneshwaran200624@gmail.com**
-
-- 📄 Know about my experiences [https://dyneshwaran-resume-single-page.tiiny.site](https://dyneshwaran-resume-single-page.tiiny.site)
-
-- ⚡ Fun fact **Duhh.. i forgot bout it.**
+<h4>About Me</h4>
+<ul>
+  <li>Developer With a lil bit knowledge on Python, Data Analysis, Machine learning and NLP. </li>
+  <li>Currently figuring out bout Scikit-Learn and Opencv.</li>
+  <li>Here's my Email "dyneshwaran200624@gmail.com" in case if you want to connect.</li>
+  <li>love to learn new stuffs happening on pc tech and stuffs.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
