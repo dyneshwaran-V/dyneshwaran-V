@@ -12,8 +12,8 @@
 <ul>
   <li>Developer With a lil bit knowledge on Python, Data Analysis, Machine learning and NLP. </li>
   <li>Currently figuring out bout Scikit-Learn and Opencv.</li>
-  <li>Here's my linked in profile "@ <link src= "in/dyneshwaran-v" alt = "dyneshwaran_linked-in_prof">in/dyneshwaran-v"</link> in case if you want to connect.</li>
   <li>love to learn new stuffs happening on pc tech and stuffs.</li>
+  <li>social profiles are in my bio and below this ,in case if you want to connect.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
