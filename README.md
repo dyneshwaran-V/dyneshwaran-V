@@ -12,7 +12,7 @@
 <ul>
   <li>Developer With a lil bit knowledge on Python, Data Analysis, Machine learning and NLP. </li>
   <li>Currently figuring out bout Scikit-Learn and Opencv.</li>
-  <li>Here's my Email "dyneshwaran200624@gmail.com" in case if you want to connect.</li>
+  <li>Here's my linked in profile "@ in/dyneshwaran-v" in case if you want to connect.</li>
   <li>love to learn new stuffs happening on pc tech and stuffs.</li>
 </ul>
 
